@@ -1,0 +1,13 @@
+{
+  "name": "count-code-lines",
+  "version": "1.0.0",
+  "description": "This is a simple package to count the number of lines in a repository",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "count": "node index.js"
+  },
+  "keywords": [],
+  "author": "Angel Jared Muñoz Baez",
+  "license": "ISC"
+}
