@@ -1,6 +1,5 @@
 {
   "name": "@kristall/count-code-lines",
-  "private": "false",
   "version": "0.0.1",
   "description": "This is a simple package to count the number of lines in a repository",
   "main": "index.js",
